@@ -1,0 +1,5 @@
+html页面 调用start方法即可
+	参数 
+	*bgcolor 底部背景色    	数据类型string
+	* 进度条颜色 progresscolor 	数据类型string
+	* 最终显示的100%  finallevel  数据类型number
